@@ -22,6 +22,8 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 ------
 ##Libraries
 
+1000+ Star的库会被标注为橙色
+
 ### 综合
 
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) 老外搜集的优秀的React Native文章，库（资料很全）
@@ -67,11 +69,16 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-refresher](https://github.com/syrusakbary/react-native-refresher) 支持下拉刷新的listview
 - [react-native-router](https://github.com/t4t5/react-native-router)类似Navigator的导航控制器
 - [react-native-scrollable-tab-view](https://github.com/skv-headless/react-native-scrollable-tab-view) 支持左右滚动的来切换tab的tableview
-- [react-native-controllers](https://github.com/wix/react-native-controllers) 封装了原声的iOS 导航栏，tabbar，抽屉效果等。
-
-
-
-
+- [react-native-controllers](https://github.com/wix/react-native-controllers) 封装了 原生的iOS 导航栏，tabbar，抽屉效果等。
+- [react-native-search-bar](https://github.com/umhan35/react-native-search-bar) 封装iOS原生UISearchBar
+- [react-native-spinkit](https://github.com/maxs15/react-native-spinkit) 一组Activity指示器
+- [react-native-splashscreen](https://github.com/remobile/react-native-splashscreen) App载入视图，启动后自动隐藏
+- [react-native-svgkit](https://github.com/brentvatne/react-native-svgkit) 显示SVG格式图片
+- [react-native-swipeout](https://github.com/dancormier/react-native-swipeout) 类似TableViewCell的左滑删除，支持Component滑动
+- [react-native-swiper](https://github.com/leecade/react-native-swiper) <font color="orange">视图轮播，上下/左右滑动组件,类似UICollectionView</font>
+- [react-native-tableview](https://github.com/jondot/awesome-react-native) 封装iOS原生UITableview
+- [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) <font color="orange">3000+支持自定义的图标</font> 
+- [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) 为了解决React Native中ListView的内存问题
 
 ### 文本相关
 
@@ -84,6 +91,10 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 ### Web相关
 
 ### 数据存储
+
+- [react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage) iOS／Android上的Sqlite3封装
+- [react-native-store](https://github.com/thewei/react-native-store) 封装了react-native AsyncStorage
+
 
 ### 多媒体
 

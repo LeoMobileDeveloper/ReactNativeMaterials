@@ -2,27 +2,36 @@
 
 React Native优秀博客，以及优秀的Github库列表（很多英文资料源自于[awesome-react-native](https://github.com/jondot/awesome-react-native)）
 
-# Content
+# 目录
 
 - [网址](#网址)
+- [完整开源项目](#完整开源项目)
+- [Libraries (Star 100+)](#libraries)
 - [中文博客](#中文博客)
 - [英文博客](#英文博客)
-- [Libraries(Star 100+)](#libraries)
-- [完整工程](#完整工程)
+
+
+##完整开源项目
+
+- [f8app](https://github.com/fbsamples/f8app) Facebook官方开发的，强烈推荐
+- [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) HackerNews的客户端 
+- [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) github客户端
+- [Reading](https://github.com/attentiveness/reading) 一个值得借鉴的学习工程
+- [react-native-nba-app](https://github.com/wwayne/react-native-nba-app) 查看NBA比赛信息和数据的APP
+
+
+
+
 
 ##网址
 
-------
-##中文博客
+- [React Native中文网](http://reactnative.cn/)
+- [StackOverFlow ReactNative相关问题](http://stackoverflow.com/questions/tagged/react-native)
 
-------
 
-##英文博客
 
-------
 ##Libraries
 
-1000+ Star的库会被标注为橙色
 
 ### 综合
 
@@ -100,8 +109,10 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 
 
-------
-##完整工程
+##中文博客
 
------
+- [IDE(Atom+Nuclide）搭建和简单使用](http://blog.csdn.net/hello_hwc/article/details/51612139)
+- [FlexBox入门图解](http://blog.csdn.net/hello_hwc/article/details/51480458)
 
+
+##英文博客

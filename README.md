@@ -16,8 +16,14 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [f8app](https://github.com/fbsamples/f8app) Facebook官方开发的，强烈推荐
 - [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) HackerNews的客户端 
 - [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) github客户端
+- [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) 知乎日报的客户端
+- [noder-react-native](https://github.com/soliury/noder-react-native) cnodejs.org的App
+- [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app) Dribbble app
 - [Reading](https://github.com/attentiveness/reading) 一个值得借鉴的学习工程
 - [react-native-nba-app](https://github.com/wwayne/react-native-nba-app) 查看NBA比赛信息和数据的APP
+- [官方Demo App](https://github.com/facebook/react-native/tree/master/Examples)
+- [ReactNativeNews](https://github.com/tabalt/ReactNativeNews) 一个简单的新闻客户端
+- [react-native-demo](https://github.com/hugohua/react-native-demo) 模仿天猫首页的Demo
 
 
 
@@ -25,6 +31,8 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ##网址
 
+- [源代码](https://github.com/facebook/react-native)
+- [官方文档](https://facebook.github.io/react-native/docs/getting-started.html#content)
 - [React Native中文网](http://reactnative.cn/)
 - [StackOverFlow ReactNative相关问题](http://stackoverflow.com/questions/tagged/react-native)
 
@@ -90,6 +98,9 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) 为了解决React Native中ListView的内存问题
 
 ### 文本相关
+- [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的conponent
+
+
 
 ### 工具
 
@@ -106,6 +117,10 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 
 ### 多媒体
+-  [react-native-camera ](https://github.com/lwansbrough/react-native-camera) 相机组建
+-  [react-native-video](https://github.com/brentvatne/react-native-video) 视频组建
+
+
 
 
 

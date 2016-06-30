@@ -9,11 +9,13 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [Libraries (Star 100+)](#libraries)
 - [中文博客](#中文博客)
 - [英文博客](#英文博客)
+- [视频资料](#视频资料)
 
 
 ##完整开源项目
 
 - [f8app](https://github.com/fbsamples/f8app) Facebook官方开发的，强烈推荐
+- [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) 写了30个字项目，来学习React Native，强烈推荐
 - [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) HackerNews的客户端 
 - [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) github客户端
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) 知乎日报的客户端
@@ -24,8 +26,9 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [官方Demo App](https://github.com/facebook/react-native/tree/master/Examples)
 - [ReactNativeNews](https://github.com/tabalt/ReactNativeNews) 一个简单的新闻客户端
 - [react-native-demo](https://github.com/hugohua/react-native-demo) 模仿天猫首页的Demo
-
-
+- [ReactNativeRedditReader](https://github.com/akveo/react-native-reddit-reader) RedditReader
+- [FinanceReactNative](https://github.com/7kfpun/FinanceReactNative) 金融股票类App
+- [react-native-nw-react-calculator](https://github.com/benoitvallon/react-native-nw-react-calculator) mobile，desktop，website通用的代码写的计算器
 
 
 
@@ -35,6 +38,8 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [官方文档](https://facebook.github.io/react-native/docs/getting-started.html#content)
 - [React Native中文网](http://reactnative.cn/)
 - [StackOverFlow ReactNative相关问题](http://stackoverflow.com/questions/tagged/react-native)
+- [React-China社区](http://react-china.org/)
+- [Use React Native 资讯站](http://www.reactnative.com/)
 
 
 
@@ -44,6 +49,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 ### 综合
 
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) 老外搜集的优秀的React Native文章，库（资料很全）
+- [react-native-guide](https://github.com/reactnativecn/react-native-guide#%E5%9B%BE%E4%B9%A6) 一国内小哥搜集的React Native的参考资料
 
 ### UI
 
@@ -126,8 +132,32 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ##中文博客
 
+###宏观介绍
+
+- [谈谈 React Native](http://blog.devtang.com/blog/2015/02/01/talk-about-react-native/)
+
+
+
+###技术细节
+
+
+###我的博客
 - [IDE(Atom+Nuclide）搭建和简单使用](http://blog.csdn.net/hello_hwc/article/details/51612139)
 - [FlexBox入门图解](http://blog.csdn.net/hello_hwc/article/details/51480458)
+- [React Native开发之动画(Animations)](http://blog.csdn.net/hello_hwc/article/details/51775696)
 
 
 ##英文博客
+
+###宏观介绍
+
+- [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
+- [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
+- [Writing Android Components](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377)
+- [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html)
+
+###技术细节
+- [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
+
+
+##视频资料

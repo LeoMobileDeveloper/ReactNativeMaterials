@@ -110,9 +110,18 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ### 工具
 
-### Style
+- [react-native-mock](https://github.com/lelandrichardson/react-native-mock) 一个为ReactNative提供的测试框架
+- [react-native-google-analytics](https://github.com/lwansbrough/react-native-google-analytics)  google统计分析
+- [react-native-fabric](https://github.com/corymsmith/react-native-fabric) 统计分析，崩溃分析等
 
 ### 系统相关
+
+- [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) 获取设备信息
+- [react-native-barcodescanner](https://github.com/ideacreation/react-native-barcodescanner) 扫码
+- [react-native-contacts](https://github.com/rt2zz/react-native-contacts) 访问通讯录
+- [react-native-fs](https://github.com/johanneslumpe/react-native-fs) 访问本地文件系统
+- [react-native-push-notification](https://github.com/zo0r/react-native-push-notification) 本地和远程通知
+
 
 ### Web相关
 
@@ -158,6 +167,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ###技术细节
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
+- [Unit Testing React Native with Mocha and Enzyme](https://blog.formidable.com/unit-testing-react-native-with-mocha-and-enzyme-51518f13ba73)
 
 
 ##视频资料

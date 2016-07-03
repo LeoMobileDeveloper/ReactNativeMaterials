@@ -15,9 +15,9 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 ##完整开源项目
 
 - [f8app](https://github.com/fbsamples/f8app) Facebook官方开发的，强烈推荐
-- [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) 写了30个字项目，来学习React Native，强烈推荐
+- [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) 写了30个小项目，来学习React Native，强烈推荐
 - [HackerNews-React-Native](https://github.com/iSimar/HackerNews-React-Native) HackerNews的客户端 
-- [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) github客户端
+- [react-native-gitfeed](https://github.com/xiekw2010/react-native-gitfeed) 一个github客户端
 - [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native) 知乎日报的客户端
 - [noder-react-native](https://github.com/soliury/noder-react-native) cnodejs.org的App
 - [react-native-dribbble-app](https://github.com/catalinmiron/react-native-dribbble-app) Dribbble app
@@ -104,7 +104,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) 为了解决React Native中ListView的内存问题
 
 ### 文本相关
-- [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的conponent
+- [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的component
 
 
 
@@ -132,7 +132,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 
 ### 多媒体
--  [react-native-camera ](https://github.com/lwansbrough/react-native-camera) 相机组建
+-  [react-native-camera ](https://github.com/lwansbrough/react-native-camera) 相机组件
 -  [react-native-video](https://github.com/brentvatne/react-native-video) 视频组建
 
 

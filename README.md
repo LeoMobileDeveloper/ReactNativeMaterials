@@ -124,6 +124,12 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 
 ### Web相关
+- [react-native-safari-view](https://github.com/naoufal/react-native-safari-view) 封装iOS中的 [Safari View Controller](https://developer.apple.com/videos/wwdc/2015/?id=504) 
+- [react-native-webview-android](https://github.com/lucasferreira/react-native-webview-android) 封装了Android中的Webview
+- [react-native-webrtc](https://github.com/oney/react-native-webrtc) A WebRTC module for React Native.
+
+
+
 
 ### 数据存储
 
@@ -134,8 +140,6 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 ### 多媒体
 -  [react-native-camera ](https://github.com/lwansbrough/react-native-camera) 相机组件
 -  [react-native-video](https://github.com/brentvatne/react-native-video) 视频组建
-
-
 
 
 
@@ -164,6 +168,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
 - [Writing Android Components](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377)
 - [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html)
+- [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987)
 
 ###技术细节
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
@@ -171,3 +176,5 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 
 ##视频资料
+
+- [React.js Conf 2016](https://facebook.github.io/react-native/docs/videos.html) 

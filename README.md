@@ -50,6 +50,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) 老外搜集的优秀的React Native文章，库（资料很全）
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide#%E5%9B%BE%E4%B9%A6) 一国内小哥搜集的React Native的参考资料
+- [React-native组件库js.coach](https://js.coach/)
 
 ### UI
 
@@ -148,10 +149,17 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 ###宏观介绍
 
 - [谈谈 React Native](http://blog.devtang.com/blog/2015/02/01/talk-about-react-native/)
+- [跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比）](http://onevcat.com/2015/03/cross-platform/- )
+- [React Native概述：背景、规划和风险](http://div.io/topic/938)
+- [使用React Native一年后的感受](http://www.dobest.me/blog/2016/06/12/%E4%BD%BF%E7%94%A8React%20Native%E4%B8%80%E5%B9%B4%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%97/)
 
 
 
 ###技术细节
+
+- [react组件间通信](http://www.alloyteam.com/2015/07/react-zu-jian-jian-tong-xin/)
+- [React Native 之 JSBridge](http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/)
+
 
 
 ###我的博客

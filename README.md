@@ -184,5 +184,11 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 
 ##视频资料
+Tips:部分视频资料来自Youtubu，可以用[Lantern](https://github.com/getlantern/lantern)翻墙
 
-- [React.js Conf 2016](https://facebook.github.io/react-native/docs/videos.html) 
+- [React.js Conf 2016](https://facebook.github.io/react-native/docs/videos.html)
+- React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
+- React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU) 
+- F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
+- [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc)
+- Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)

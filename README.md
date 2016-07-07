@@ -114,6 +114,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-mock](https://github.com/lelandrichardson/react-native-mock) 一个为ReactNative提供的测试框架
 - [react-native-google-analytics](https://github.com/lwansbrough/react-native-google-analytics)  google统计分析
 - [react-native-fabric](https://github.com/corymsmith/react-native-fabric) 统计分析，崩溃分析等
+- [react-native-wechat](https://github.com/weflex/react-native-wechat) 调用微信相关，比如分享，登录，支付
 
 ### 系统相关
 
@@ -122,6 +123,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-contacts](https://github.com/rt2zz/react-native-contacts) 访问通讯录
 - [react-native-fs](https://github.com/johanneslumpe/react-native-fs) 访问本地文件系统
 - [react-native-push-notification](https://github.com/zo0r/react-native-push-notification) 本地和远程通知
+- [react-native-touch-id](https://github.com/naoufal/react-native-touch-id) 调用TouchID认证
 
 
 ### Web相关
@@ -142,7 +144,9 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 -  [react-native-camera ](https://github.com/lwansbrough/react-native-camera) 相机组件
 -  [react-native-video](https://github.com/brentvatne/react-native-video) 视频组建
 
-
+###其他
+- [react-native-css](https://github.com/sabeurthabti/react-native-css) 用CSS的方式对Component进行Style
+- [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet) 对stylesheet进行扩展
 
 ##中文博客
 

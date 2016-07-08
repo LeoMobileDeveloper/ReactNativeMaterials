@@ -103,6 +103,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-tableview](https://github.com/jondot/awesome-react-native) 封装iOS原生UITableview
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) <font color="orange">3000+支持自定义的图标</font> 
 - [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) 为了解决React Native中ListView的内存问题
+- [react-native-invertible-scroll-view](https://github.com/exponentjs/react-native-invertible-scroll-view) 逆向的ScrollView，从地步开始布局，适用于聊天等向上滑动来加载更多的情况
 
 ### 文本相关
 - [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的component

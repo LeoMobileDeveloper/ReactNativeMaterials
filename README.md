@@ -105,6 +105,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) 为了解决React Native中ListView的内存问题
 - [react-native-invertible-scroll-view](https://github.com/exponentjs/react-native-invertible-scroll-view) 逆向的ScrollView，从地步开始布局，适用于聊天等向上滑动来加载更多的情况
 - [react-native-viewpager](https://github.com/race604/react-native-viewpager) 视图轮播，支持循环滚动，自定义视图。已做性能优化
+- [react-native-tab-navigator](https://github.com/exponentjs/react-native-tab-navigator) TabBar切换视图
 
 ### 文本相关
 - [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的component

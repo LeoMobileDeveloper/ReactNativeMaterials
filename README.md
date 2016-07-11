@@ -39,7 +39,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [React Native中文网](http://reactnative.cn/)
 - [StackOverFlow ReactNative相关问题](http://stackoverflow.com/questions/tagged/react-native)
 - [React-China社区](http://react-china.org/)
-- [Use React Native 资讯站](http://www.reactnative.com/)
+- [Use React Native 资讯站](http://www.reactnative.com/)- 
 
 
 
@@ -51,6 +51,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) 老外搜集的优秀的React Native文章，库（资料很全）
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide#%E5%9B%BE%E4%B9%A6) 一国内小哥搜集的React Native的参考资料
 - [React-native组件库js.coach](https://js.coach/)
+- [React Native Package Manager](https://github.com/rnpm/rnpm)
 
 ### UI
 

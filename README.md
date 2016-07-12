@@ -52,6 +52,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-guide](https://github.com/reactnativecn/react-native-guide#%E5%9B%BE%E4%B9%A6) 一国内小哥搜集的React Native的参考资料
 - [React-native组件库js.coach](https://js.coach/)
 - [React Native Package Manager](https://github.com/rnpm/rnpm)
+- [react-native-desktop](https://github.com/ptmt/react-native-desktop) 为MacOS开发提供的React Native开发包
 
 ### UI
 
@@ -119,6 +120,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-google-analytics](https://github.com/lwansbrough/react-native-google-analytics)  google统计分析
 - [react-native-fabric](https://github.com/corymsmith/react-native-fabric) 统计分析，崩溃分析等
 - [react-native-wechat](https://github.com/weflex/react-native-wechat) 调用微信相关，比如分享，登录，支付
+- [reactotron](https://github.com/skellock/reactotron) 在终端检测React Dom和Reactive App
 
 ### 系统相关
 

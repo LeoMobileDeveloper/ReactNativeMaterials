@@ -53,16 +53,16 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ### 综合
 
-- [awesome-react-native](https://github.com/jondot/awesome-react-native) 老外搜集的优秀的React Native文章，库（资料很全）
-- [react-native-guide](https://github.com/reactnativecn/react-native-guide#%E5%9B%BE%E4%B9%A6) 一国内小哥搜集的React Native的参考资料
-- [React-native组件库js.coach](https://js.coach/)
-- [React Native Package Manager](https://github.com/rnpm/rnpm)
-- [react-native-desktop](https://github.com/ptmt/react-native-desktop) 为MacOS开发提供的React Native开发包
+- [awesome-react-native](https://github.com/jondot/awesome-react-native) 老外搜集的优秀的React Native文章，库（资料很全）🔥🔥🔥🔥🔥
+- [react-native-guide](https://github.com/reactnativecn/react-native-guide#%E5%9B%BE%E4%B9%A6) 一国内小哥搜集的React Native的参考资料 🔥🔥🔥🔥🔥
+- [React-native组件库js.coach](https://js.coach/) 🔥🔥🔥🔥🔥
+- [React Native Package Manager](https://github.com/rnpm/rnpm) 🔥🔥🔥🔥🔥
+- [react-native-desktop](https://github.com/ptmt/react-native-desktop) 为MacOS开发提供的React Native开发包 🔥🔥🔥🔥🔥
 
 ### UI
 
-- [apsl-react-native-button](https://github.com/APSL/react-native-button)  定义了一个Button支持用Style来配置
-- [react-native-action-button](https://github.com/APSL/react-native-button) 支持多种点击事件的Button控件
+- [apsl-react-native-button](https://github.com/APSL/react-native-button)  定义了一个Button支持用Style来配置 🔥🔥🔥
+- [react-native-action-button](https://github.com/APSL/react-native-button) 支持多种点击事件的Button控件 🔥🔥🔥
 - [react-native-button](https://github.com/ide/react-native-button) 另一个Button组件
 - [ex-navigator](https://github.com/exponentjs/ex-navigator) 封装Navigator,以Route为中心的Navigator
 - [gl-react-native](https://github.com/ProjectSeptemberInc/gl-react-native) React Native中使用OPENGL来实现复杂的图片和components渲染
@@ -167,6 +167,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比）](http://onevcat.com/2015/03/cross-platform/- )
 - [React Native概述：背景、规划和风险](http://div.io/topic/938)
 - [使用React Native一年后的感受](http://www.dobest.me/blog/2016/06/12/%E4%BD%BF%E7%94%A8React%20Native%E4%B8%80%E5%B9%B4%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%97/)
+- [React Native通信机制详解](http://blog.cnbang.net/tech/2698/)
 
 
 

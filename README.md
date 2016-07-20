@@ -91,15 +91,14 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-grid-view](https://github.com/lucholaf/react-native-grid-view) 网格视图，类似iOS中的UICollectionView 🔥
 - [react-native-image-picker](https://github.com/marcshilling/react-native-image-picker) 用Native UI来选择图片或者拍照 🔥🔥🔥
 - [react-native-keyboard-spacer](https://github.com/Andr3wHur5t/react-native-keyboard-spacer) 适用于iOS的根据键盘自动调整输入框 🔥🔥
-- [react-native-keyboardevents](https://github.com/johanneslumpe/react-native-keyboardevents) 监听键盘显示/隐藏
-- [react-native-lightbox](https://github.com/oblador/react-native-lightbox) 图片全屏预览
-- [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) 视图轮播
-- [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) 地图
-- [react-native-maps](https://github.com/lelandrichardson/react-native-maps) 地图
-- [react-native-material-design](https://github.com/react-native-material-design/react-native-material-design)  material design
-- [react-native-material-kit](https://github.com/xinthink/react-native-material-kit) 一组UI Components，为了介绍  [Material Design](http://www.google.com/design/spec/material-design/introduction.html)
-- [react-native-modalbox](https://github.com/maxs15/react-native-modalbox) 用于模态显示的Component
-- [react-native-navbar](https://github.com/jondot/awesome-react-native) 导航栏
+- [react-native-keyboardevents](https://github.com/johanneslumpe/react-native-keyboardevents) 监听键盘显示/隐藏 🔥
+- [react-native-lightbox](https://github.com/oblador/react-native-lightbox) 图片全屏预览 🔥🔥🔥
+- [react-native-looped-carousel](https://github.com/appintheair/react-native-looped-carousel) 视图轮播 🔥🔥
+- [react-native-mapbox-gl](https://github.com/mapbox/react-native-mapbox-gl) 地图 🔥🔥
+- [react-native-maps](https://github.com/lelandrichardson/react-native-maps) 地图 🔥🔥🔥🔥
+- [react-native-material-design](https://github.com/react-native-material-design/react-native-material-design)  material design 🔥🔥🔥
+- [react-native-material-kit](https://github.com/xinthink/react-native-material-kit) 一组UI Components，为了介绍  [Material Design](http://www.google.com/design/spec/material-design/introduction.html) 🔥🔥🔥🔥
+- [react-native-modalbox](https://github.com/maxs15/react-native-modalbox) 用于模态显示的Component 🔥🔥
 - [react-native-orientation](https://github.com/yamill/react-native-orientation) 监听设备旋转 🔥
 - [react-native-parallax](https://github.com/oblador/react-native-parallax) parallax效果 🔥
 - [react-native-picker](https://github.com/beefe/react-native-picker) 选择器，可用于实现时间选择，区域选择 🔥
@@ -123,13 +122,13 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-tab-navigator](https://github.com/exponentjs/react-native-tab-navigator) TabBar切换视图 🔥🔥
 
 ### 文本相关
-- [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的component
+- [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的component 🔥
 
 
 
 ### 工具
 
-- [react-native-mock](https://github.com/lelandrichardson/react-native-mock) 一个为ReactNative提供的测试框架
+- [react-native-mock](https://github.com/lelandrichardson/react-native-mock) 一个为ReactNative提供的测试框架 🔥
 - [react-native-google-analytics](https://github.com/lwansbrough/react-native-google-analytics)  google统计分析
 - [react-native-fabric](https://github.com/corymsmith/react-native-fabric) 统计分析，崩溃分析等
 - [react-native-wechat](https://github.com/weflex/react-native-wechat) 调用微信相关，比如分享，登录，支付
@@ -137,19 +136,19 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ### 系统相关
 
-- [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) 获取设备信息
-- [react-native-barcodescanner](https://github.com/ideacreation/react-native-barcodescanner) 扫码
-- [react-native-contacts](https://github.com/rt2zz/react-native-contacts) 访问通讯录
-- [react-native-fs](https://github.com/johanneslumpe/react-native-fs) 访问本地文件系统
-- [react-native-push-notification](https://github.com/zo0r/react-native-push-notification) 本地和远程通知
-- [react-native-touch-id](https://github.com/naoufal/react-native-touch-id) 调用TouchID认证
+- [react-native-device-info](https://github.com/rebeccahughes/react-native-device-info) 获取设备信息 🔥🔥
+- [react-native-barcodescanner](https://github.com/ideacreation/react-native-barcodescanner) 扫码 🔥
+- [react-native-contacts](https://github.com/rt2zz/react-native-contacts) 访问通讯录 🔥
+- [react-native-fs](https://github.com/johanneslumpe/react-native-fs) 访问本地文件系统 🔥🔥
+- [react-native-push-notification](https://github.com/zo0r/react-native-push-notification) 本地和远程通知 🔥🔥
+- [react-native-touch-id](https://github.com/naoufal/react-native-touch-id) 调用TouchID认证 🔥
 
 
 ### Web相关
-- [react-native-safari-view](https://github.com/naoufal/react-native-safari-view) 封装iOS中的 [Safari View Controller](https://developer.apple.com/videos/wwdc/2015/?id=504) 
-- [react-native-webview-android](https://github.com/lucasferreira/react-native-webview-android) 封装了Android中的Webview
-- [react-native-webrtc](https://github.com/oney/react-native-webrtc) A WebRTC module for React Native.
-
+- [react-native-safari-view](https://github.com/naoufal/react-native-safari-view) 封装iOS中的 [Safari View Controller](https://developer.apple.com/videos/wwdc/2015/?id=504)  🔥
+- [react-native-webview-android](https://github.com/lucasferreira/react-native-webview-android) 封装了Android中的Webview 🔥
+- [react-native-webrtc](https://github.com/oney/react-native-webrtc) A WebRTC module for React Native. 🔥🔥
+ 
 
 
 
@@ -160,20 +159,20 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 
 ### 多媒体
--  [react-native-camera ](https://github.com/lwansbrough/react-native-camera) 相机组件
--  [react-native-video](https://github.com/brentvatne/react-native-video) 视频组建
+-  [react-native-camera ](https://github.com/lwansbrough/react-native-camera) 相机组件 🔥🔥🔥🔥
+-  [react-native-video](https://github.com/brentvatne/react-native-video) 视频组建 🔥🔥🔥🔥
 
 ###其他
-- [react-native-css](https://github.com/sabeurthabti/react-native-css) 用CSS的方式对Component进行Style
-- [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet) 对stylesheet进行扩展
+- [react-native-css](https://github.com/sabeurthabti/react-native-css) 用CSS的方式对Component进行Style 🔥🔥
+- [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet) 对stylesheet进行扩展 🔥🔥
 
 ##中文博客
 
 ###宏观介绍
 
-- [跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比）](http://onevcat.com/2015/03/cross-platform/- )
-- [React Native概述：背景、规划和风险](http://div.io/topic/938)
-- [使用React Native一年后的感受](http://www.dobest.me/blog/2016/06/12/%E4%BD%BF%E7%94%A8React%20Native%E4%B8%80%E5%B9%B4%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%97/)
+- [跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比）](http://onevcat.com/2015/03/cross-platform/- ) ⭐️⭐️
+- [React Native概述：背景、规划和风险](http://div.io/topic/938) ⭐️⭐️
+- [使用React Native一年后的感受](http://www.dobest.me/blog/2016/06/12/%E4%BD%BF%E7%94%A8React%20Native%E4%B8%80%E5%B9%B4%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%97/)  ⭐️⭐️
 - [React Native通信机制详解](http://blog.cnbang.net/tech/2698/) ⭐️⭐️⭐️
 - [[深入ReactNative]第一篇 通讯及消息循环代码剖析](http://www.jianshu.com/p/269b21958030) ⭐️⭐️⭐️
 
@@ -182,14 +181,14 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 ###技术细节
 
 - [react组件间通信](http://www.alloyteam.com/2015/07/react-zu-jian-jian-tong-xin/)
-- [React Native 之 JSBridge](http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/)
+- [React Native 之 JSBridge](http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/) 
 
 
 
 ###我的博客
-- [IDE(Atom+Nuclide）搭建和简单使用](http://blog.csdn.net/hello_hwc/article/details/51612139)
-- [FlexBox入门图解](http://blog.csdn.net/hello_hwc/article/details/51480458)
-- [React Native开发之动画(Animations)](http://blog.csdn.net/hello_hwc/article/details/51775696)
+- [IDE(Atom+Nuclide）搭建和简单使用](http://blog.csdn.net/hello_hwc/article/details/51612139) ⭐️⭐️⭐️
+- [FlexBox入门图解](http://blog.csdn.net/hello_hwc/article/details/51480458) ⭐️⭐️
+- [React Native开发之动画(Animations)](http://blog.csdn.net/hello_hwc/article/details/51775696)⭐️⭐️
 
 
 ##英文博客

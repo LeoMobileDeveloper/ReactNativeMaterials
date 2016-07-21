@@ -117,7 +117,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-tableview](https://github.com/jondot/awesome-react-native) 封装iOS原生UITableview
 - [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) <font color="orange">3000+支持自定义的图标</font>  🔥🔥🔥🔥
 - [react-native-sglistview](https://github.com/sghiassy/react-native-sglistview) 为了解决React Native中ListView的内存问题 🔥
-- [react-native-invertible-scroll-view](https://github.com/exponentjs/react-native-invertible-scroll-view) 逆向的ScrollView，从地步开始布局，适用于聊天等向上滑动来加载更多的情况
+- [react-native-invertible-scroll-view](https://github.com/exponentjs/react-native-invertible-scroll-view) 逆向的ScrollView，从底部开始布局，适用于聊天等向上滑动来加载更多的情况 🔥
 - [react-native-viewpager](https://github.com/race604/react-native-viewpager) 视图轮播，支持循环滚动，自定义视图。已做性能优化 🔥🔥🔥
 - [react-native-tab-navigator](https://github.com/exponentjs/react-native-tab-navigator) TabBar切换视图 🔥🔥
 
@@ -129,10 +129,10 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 ### 工具
 
 - [react-native-mock](https://github.com/lelandrichardson/react-native-mock) 一个为ReactNative提供的测试框架 🔥
-- [react-native-google-analytics](https://github.com/lwansbrough/react-native-google-analytics)  google统计分析
-- [react-native-fabric](https://github.com/corymsmith/react-native-fabric) 统计分析，崩溃分析等
-- [react-native-wechat](https://github.com/weflex/react-native-wechat) 调用微信相关，比如分享，登录，支付
-- [reactotron](https://github.com/skellock/reactotron) 在终端检测React Dom和Reactive App
+- [react-native-google-analytics](https://github.com/lwansbrough/react-native-google-analytics)  google统计分析 🔥
+- [react-native-fabric](https://github.com/corymsmith/react-native-fabric) 统计分析，崩溃分析等 🔥🔥
+- [react-native-wechat](https://github.com/weflex/react-native-wechat) 调用微信相关，比如分享，登录，支付 🔥🔥
+- [reactotron](https://github.com/skellock/reactotron) 在终端检测React Dom和Reactive App 🔥🔥🔥
 
 ### 系统相关
 
@@ -154,8 +154,8 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ### 数据存储
 
-- [react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage) iOS／Android上的Sqlite3封装
-- [react-native-store](https://github.com/thewei/react-native-store) 封装了react-native AsyncStorage
+- [react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage) iOS／Android上的Sqlite3封装 🔥🔥
+- [react-native-store](https://github.com/thewei/react-native-store) 封装了react-native AsyncStorage 🔥🔥
 
 
 ### 多媒体
@@ -180,8 +180,8 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ###技术细节
 
-- [react组件间通信](http://www.alloyteam.com/2015/07/react-zu-jian-jian-tong-xin/)
-- [React Native 之 JSBridge](http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/) 
+- [react组件间通信](http://www.alloyteam.com/2015/07/react-zu-jian-jian-tong-xin/) ⭐️⭐️
+- [React Native 之 JSBridge](http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/)  ⭐️⭐️
 
 
 
@@ -195,23 +195,23 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ###宏观介绍
 
-- [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/)
-- [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/)
-- [Writing Android Components](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377)
-- [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html)
-- [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987)
+- [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/) ⭐️⭐️
+- [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/) ⭐️
+- [Writing Android Components](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377) ⭐️
+- [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html) ⭐️⭐️
+- [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987) ⭐️
 
 ###技术细节
-- [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/)
-- [Unit Testing React Native with Mocha and Enzyme](https://blog.formidable.com/unit-testing-react-native-with-mocha-and-enzyme-51518f13ba73)
+- [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/) ⭐️⭐️
+- [Unit Testing React Native with Mocha and Enzyme](https://blog.formidable.com/unit-testing-react-native-with-mocha-and-enzyme-51518f13ba73) ⭐️⭐️⭐️
 
 
 ##视频资料
 Tips:部分视频资料来自Youtubu，可以用[Lantern](https://github.com/getlantern/lantern)翻墙
 
-- [React.js Conf 2016](https://facebook.github.io/react-native/docs/videos.html)
-- React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4)
-- React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU) 
-- F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU)
-- [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc)
-- Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native)
+- [React.js Conf 2016](https://facebook.github.io/react-native/docs/videos.html) ⭐️⭐️⭐️
+- React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4) ⭐️⭐️⭐️
+- React Conf 2015: [A Deep Dive into React Native](https://youtu.be/7rDsRXj9-cU) ⭐️⭐️⭐️
+- F8 2015: [React Native and Relay](https://www.youtube.com/watch?v=X6YbAKiLCLU) ⭐️⭐️
+- [Let's build a React Native app in 20 minutes](https://www.youtube.com/watch?v=9ArhJiMGVDc) ⭐️
+- Pluralsight.com: [Build iOS Apps with React Native](http://www.pluralsight.com/courses/build-ios-apps-react-native) ⭐️

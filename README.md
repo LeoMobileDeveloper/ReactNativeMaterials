@@ -70,6 +70,9 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [React Native Package Manager](https://github.com/rnpm/rnpm) 🔥🔥🔥🔥🔥
 - [react-native-desktop](https://github.com/ptmt/react-native-desktop) 为MacOS开发提供的React Native开发包 🔥🔥🔥🔥🔥
 - [tcomb-form-native](https://github.com/gcanti/tcomb-form-native) 生成React native froms 🔥🔥🔥🔥
+- [React Native training](https://www.gitbook.com/book/unbug/react-native-training/details) Github Book，入门级资料 🔥🔥
+
+
 
 ### UI
 

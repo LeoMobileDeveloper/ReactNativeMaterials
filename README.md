@@ -224,6 +224,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [Unit Testing React Native with Mocha and Enzyme](https://blog.formidable.com/unit-testing-react-native-with-mocha-and-enzyme-51518f13ba73) ⭐️⭐️⭐️
 - [test-driving-react-native-applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/) ⭐️⭐️⭐️
 - [react-native-tutorial-part-1-hello-react](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react) ⭐️⭐️
+- [Creating "Droppable" Components with Animated and PanResponder](http://www.yoniweisbrod.com/droppable-items-with-react-native-animated/) ⭐️⭐️⭐️
 
 
 ##视频资料

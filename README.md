@@ -142,6 +142,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-wechat](https://github.com/weflex/react-native-wechat) 调用微信相关，比如分享，登录，支付 🔥🔥
 - [reactotron](https://github.com/skellock/reactotron) 在终端检测React Dom和Reactive App 🔥🔥🔥
 - [react-native-windows](https://github.com/ReactWindows/react-native-windows) Windows平台的RN工具 🔥🔥🔥
+- [react-native-webpack-server](https://github.com/mjohnston/react-native-webpack-server) 用Webpack来编译React Native App
 
 ### 系统相关
 

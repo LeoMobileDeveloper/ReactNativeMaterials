@@ -56,8 +56,8 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [React Native中文网](http://reactnative.cn/)
 - [StackOverFlow ReactNative相关问题](http://stackoverflow.com/questions/tagged/react-native)
 - [React-China社区](http://react-china.org/)
-- [Use React Native 资讯站](http://www.reactnative.com/)-
-- [Programming React Native](Programming React Native )一本入门教程的书 
+- [Use React Native 资讯站](http://www.reactnative.com/)
+- [Programming React Native](Programming React Native ) 一本入门教程的书 
 
 
 
@@ -73,6 +73,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-desktop](https://github.com/ptmt/react-native-desktop) 为MacOS开发提供的React Native开发包 🔥🔥🔥🔥🔥
 - [tcomb-form-native](https://github.com/gcanti/tcomb-form-native) 生成React native froms 🔥🔥🔥🔥
 - [React Native training](https://www.gitbook.com/book/unbug/react-native-training/details) Github Book，入门级资料 🔥🔥
+- [pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit) React Native App 开发的一组通用组件 🔥🔥🔥🔥
 
 
 

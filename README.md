@@ -233,6 +233,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [test-driving-react-native-applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/) ⭐️⭐️⭐️
 - [react-native-tutorial-part-1-hello-react](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react) ⭐️⭐️
 - [Creating "Droppable" Components with Animated and PanResponder](http://www.yoniweisbrod.com/droppable-items-with-react-native-animated/) ⭐️⭐️⭐️
+- [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
 
 
 ##视频资料

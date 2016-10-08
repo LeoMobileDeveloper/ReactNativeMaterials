@@ -46,6 +46,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [lumpen-radio](https://github.com/jhabdas/lumpen-radio) WLPN 105.5 Chicago  🔥
 - [react-native-sudoku](https://github.com/nihgwu/react-native-sudoku) 数独游戏 🔥🔥🔥🔥
 - [TaskRabbit's Sample App](https://github.com/taskrabbit/ReactNativeSampleApp) Task Rabbit的Demo App
+- [PhotosReactNative](https://github.com/7kfpun/PhotosReactNative) 一个带图案锁屏的开源看图App
 
 
 

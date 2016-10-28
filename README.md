@@ -59,6 +59,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [React-China社区](http://react-china.org/)
 - [Use React Native 资讯站](http://www.reactnative.com/)
 - [Programming React Native](Programming React Native ) 一本入门教程的书 
+- [CSDN React Native知识库](http://lib.csdn.net/base/reactnative) 
 
 
 

@@ -227,7 +227,9 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987) ⭐️
 
 ### JS相关
+
 - [es6features](https://github.com/lukehoban/es6features#readme) 详细介绍了ES6的新特性，RN是支持ES6的，所以强烈建议阅读 ⭐️⭐️⭐️
+
 ###技术细节
 
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/) ⭐️⭐️
@@ -238,6 +240,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-tutorial-part-1-hello-react](https://kylewbanks.com/blog/react-native-tutorial-part-1-hello-react) ⭐️⭐️
 - [Creating "Droppable" Components with Animated and PanResponder](http://www.yoniweisbrod.com/droppable-items-with-react-native-animated/) ⭐️⭐️⭐️
 - [Basics of using react-native-router-flux](https://medium.com/@spencer_carli/react-native-basics-using-react-native-router-flux-f11e5128aff9#.di5mvrbdr)
+- [How to Use the ListView Component](https://medium.com/@spencer_carli/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.ur0hyi3h9)⭐️⭐️
 
 
 ##视频资料

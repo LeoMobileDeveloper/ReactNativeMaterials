@@ -136,6 +136,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-viewpager](https://github.com/race604/react-native-viewpager) 视图轮播，支持循环滚动，自定义视图。已做性能优化 🔥🔥🔥
 - [react-native-tab-navigator](https://github.com/exponentjs/react-native-tab-navigator) TabBar切换视图 🔥🔥
 - [react-native-loading-spinner-overlay](https://github.com/niftylettuce/react-native-loading-spinner-overlay) 加载中的提示spinner 🔥,支持iOS/Android
+- [react-native-color-picker](https://github.com/instea/react-native-color-picker) iOS/Android通用的颜色选择器
 
 ### 文本相关
 - [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的component 🔥

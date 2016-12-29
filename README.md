@@ -163,6 +163,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-fs](https://github.com/johanneslumpe/react-native-fs) 访问本地文件系统 🔥🔥
 - [react-native-push-notification](https://github.com/zo0r/react-native-push-notification) 本地和远程通知 🔥🔥
 - [react-native-touch-id](https://github.com/naoufal/react-native-touch-id) 调用TouchID认证 🔥
+- [react-native-fcm](https://github.com/evollu/react-native-fcm) - firebase cloud messaging 和 local notification 🔥🔥
 
 
 ### Web相关

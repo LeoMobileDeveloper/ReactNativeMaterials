@@ -145,7 +145,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ### 工具
 
-- [react-native-mock](https://github.com/lelandrichardson/react-native-mock) 一个为ReactNative提供的测试框架 🔥
+- [react-native-mock](https://github.com/RealOrangeOne/react-native-mock) 一个为ReactNative提供的测试框架 🔥🔥
 - [react-native-google-analytics](https://github.com/lwansbrough/react-native-google-analytics)  google统计分析 🔥
 - [react-native-fabric](https://github.com/corymsmith/react-native-fabric) 统计分析，崩溃分析等 🔥🔥
 - [react-native-macos](https://github.com/ptmt/react-native-macos) 为mac OS服务的React Native

@@ -48,6 +48,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [TaskRabbit's Sample App](https://github.com/taskrabbit/ReactNativeSampleApp) Task Rabbit的Demo App
 - [PhotosReactNative](https://github.com/7kfpun/PhotosReactNative) 一个带图案锁屏的开源看图App
 - [movieapp](https://github.com/JuneDomingo/movieapp) 查看电影和电视节目的App 🔥🔥
+
 ##网址
 
 - [源代码](https://github.com/facebook/react-native)
@@ -135,6 +136,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-tab-navigator](https://github.com/exponentjs/react-native-tab-navigator) TabBar切换视图 🔥🔥
 - [react-native-loading-spinner-overlay](https://github.com/niftylettuce/react-native-loading-spinner-overlay) 加载中的提示spinner 🔥,支持iOS/Android
 - [react-native-color-picker](https://github.com/instea/react-native-color-picker) iOS/Android通用的颜色选择器
+- [react-native-pathjs-charts](https://github.com/capitalone/react-native-pathjs-charts) - 基于react-native-svg 和 paths-js写的iOS，Android通用的绘图库 🔥
 
 ### 文本相关
 - [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的component 🔥

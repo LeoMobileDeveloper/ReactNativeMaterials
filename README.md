@@ -179,7 +179,8 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 - [react-native-sqlite-storage](https://github.com/andpor/react-native-sqlite-storage) iOS／Android上的Sqlite3封装 🔥🔥
 - [react-native-store](https://github.com/thewei/react-native-store) 封装了react-native AsyncStorage 🔥🔥
--  [realm-js](https://github.com/realm/realm-js) 用JS来调用Realm 🔥🔥🔥🔥
+- [realm-js](https://github.com/realm/realm-js) 用JS来调用Realm 🔥🔥🔥🔥
+- [react-native-fetch-blob](https://github.com/wkh237/react-native-fetch-blob) 更容易的访问文件和交换数据（本地，网络） 🔥🔥🔥
 
 
 

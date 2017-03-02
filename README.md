@@ -61,7 +61,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [CSDN React Native知识库](http://lib.csdn.net/base/reactnative) 
 - [Use React Native Blog](http://www.reactnative.com/)
 - [Facebook Code Blog](https://code.facebook.com/)
-
+- [Qunar React Native](http://ued.qunar.com/qrn/) 去哪儿定制版 React Native，更快、更好、更统一。
 
 
 ##Libraries

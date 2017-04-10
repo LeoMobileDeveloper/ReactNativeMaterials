@@ -194,10 +194,11 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-css](https://github.com/sabeurthabti/react-native-css) 用CSS的方式对Component进行Style 🔥🔥
 - [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet) 对stylesheet进行扩展 🔥🔥
 
-##中文博客
+##中文资料
 
 ###宏观介绍
 
+- [如何评价 React Native？(知乎)] (https://www.zhihu.com/question/27852694)
 - [跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比）](http://onevcat.com/2015/03/cross-platform/- ) ⭐️⭐️
 - [React Native概述：背景、规划和风险](http://div.io/topic/938) ⭐️⭐️
 - [使用React Native一年后的感受](http://www.dobest.me/blog/2016/06/12/%E4%BD%BF%E7%94%A8React%20Native%E4%B8%80%E5%B9%B4%E5%90%8E%E7%9A%84%E6%84%9F%E5%8F%97/)  ⭐️⭐️
@@ -222,7 +223,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [React Native开发之动画(Animations)](http://blog.csdn.net/hello_hwc/article/details/51775696)⭐️⭐️
 
 
-##英文博客
+##英文资料
 
 ###宏观介绍
 

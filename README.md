@@ -116,6 +116,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-modalbox](https://github.com/maxs15/react-native-modalbox) 用于模态显示的Component 🔥🔥
 - [react-native-orientation](https://github.com/yamill/react-native-orientation) 监听设备旋转 🔥
 - [react-native-parallax](https://github.com/oblador/react-native-parallax) parallax效果 🔥
+- [react-native-parallax-scroll-view](https://github.com/jaysoo/react-native-parallax-scroll-view) 视差滚动效果的ScrollView，支持固定header
 - [react-native-picker](https://github.com/beefe/react-native-picker) 选择器，可用于实现时间选择，区域选择 🔥
 - [react-native-popover](https://github.com/jeanregisser/react-native-popover) 弹出气泡框的Component 🔥
 - [react-native-progress-hud](https://github.com/naoufal/react-native-progress-hud) ProgressHUD 🔥

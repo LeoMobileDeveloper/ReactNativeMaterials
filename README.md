@@ -192,13 +192,14 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 -  [react-native-video](https://github.com/brentvatne/react-native-video) 视频组建 🔥🔥🔥🔥
 -  [react-native-image-crop-picker](https://github.com/ivpusic/react-native-image-crop-picker) 图片选择器，支持对图片进行切割 🔥
 -  [react-native-video-processing](https://github.com/shahen94/react-native-video-processing) 视频编辑，调整，滤镜
-###其他
+
+### 其他
 - [react-native-css](https://github.com/sabeurthabti/react-native-css) 用CSS的方式对Component进行Style 🔥🔥
 - [react-native-extended-stylesheet](https://github.com/vitalets/react-native-extended-stylesheet) 对stylesheet进行扩展 🔥🔥
 
-##中文资料
+## 中文资料
 
-###宏观介绍
+### 宏观介绍
 
 - [如何评价 React Native？(知乎)] (https://www.zhihu.com/question/27852694)
 - [跨平台开发时代的 (再次) 到来？（ Xamarin，NativeScript 和 React Native 对比）](http://onevcat.com/2015/03/cross-platform/- ) ⭐️⭐️
@@ -210,7 +211,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 
 
-###技术细节
+### 技术细节
 
 - [react组件间通信](http://www.alloyteam.com/2015/07/react-zu-jian-jian-tong-xin/) ⭐️⭐️
 - [React Native 之 JSBridge](http://www.alloyteam.com/2015/05/react-native-zhi-jsbridge/)  ⭐️⭐️
@@ -219,15 +220,15 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 
 
-###我的博客
+### 我的博客
 - [IDE(Atom+Nuclide）搭建和简单使用](http://blog.csdn.net/hello_hwc/article/details/51612139) ⭐️⭐️⭐️
 - [FlexBox入门图解](http://blog.csdn.net/hello_hwc/article/details/51480458) ⭐️⭐️
 - [React Native开发之动画(Animations)](http://blog.csdn.net/hello_hwc/article/details/51775696)⭐️⭐️
 
 
-##英文资料
+## 英文资料
 
-###宏观介绍
+### 宏观介绍
 
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/) ⭐️⭐️
 - [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/) ⭐️
@@ -237,9 +238,10 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ### JS相关
 
-- [es6features](https://github.com/lukehoban/es6features#readme) 详细介绍了ES6的新特性，RN是支持ES6的，所以强烈建议阅读 ⭐️⭐️⭐️
+- [es6features](https://github.com/lukehoban/es6features#readme) 详细介绍了ES6的新特性，RN是支持ES6的，强烈推荐 ⭐️⭐️⭐️
+- [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html) 阮一峰老师的React入门文章，强烈推荐 ⭐️⭐️⭐️
 
-###技术细节
+### 技术细节
 
 - [Routing and Navigation in React Native](http://blog.paracode.com/2016/01/05/routing-and-navigation-in-react-native/) ⭐️⭐️
 - [Unit Testing React Native with Mocha and Enzyme](https://blog.formidable.com/unit-testing-react-native-with-mocha-and-enzyme-51518f13ba73) ⭐️⭐️⭐️
@@ -252,7 +254,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [How to Use the ListView Component](https://medium.com/@spencer_carli/react-native-basics-how-to-use-the-listview-component-a0ec44cf1fe8#.ur0hyi3h9)⭐️⭐️
 
 
-##视频资料
+## 视频资料
 Tips:部分视频资料来自Youtubu，可以用[Lantern](https://github.com/getlantern/lantern)翻墙
 
 - [React.js Conf 2016](https://facebook.github.io/react-native/docs/videos.html) ⭐️⭐️⭐️

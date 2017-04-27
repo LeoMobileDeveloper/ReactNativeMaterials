@@ -57,11 +57,12 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [StackOverFlow ReactNative相关问题](http://stackoverflow.com/questions/tagged/react-native)
 - [React-China社区](http://react-china.org/)
 - [Use React Native 资讯站](http://www.reactnative.com/)
-- [Programming React Native](Programming React Native ) 一本入门教程的书 
+- [Programming React Native](http://www.programmingreactnative.com/) 一本入门教程的书 
 - [CSDN React Native知识库](http://lib.csdn.net/base/reactnative) 
 - [Use React Native Blog](http://www.reactnative.com/)
 - [Facebook Code Blog](https://code.facebook.com/)
 - [Qunar React Native](http://ued.qunar.com/qrn/) 去哪儿定制版 React Native，更快、更好、更统一。
+- [阮一峰老师的博客](http://www.ruanyifeng.com/blog/javascript/) 阮老师在JS的讲解上深入浅出，非常适合学习JS。
 
 
 ## Libraries

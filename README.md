@@ -26,6 +26,22 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [视频资料](#视频资料)
 
 
+## 网址
+
+- [源代码](https://github.com/facebook/react-native)
+- [官方文档](https://facebook.github.io/react-native/docs/getting-started.html#content)
+- [react-native-training](https://react-native-training.github.io/react-native-elements/) 很好的RN在线学习资料 ⭐️⭐️⭐️
+- [React Native中文网](http://reactnative.cn/)
+- [StackOverFlow ReactNative相关问题](http://stackoverflow.com/questions/tagged/react-native)
+- [React-China社区](http://react-china.org/)
+- [Use React Native 资讯站](http://www.reactnative.com/)
+- [Programming React Native](http://www.programmingreactnative.com/) 一本入门教程的书 
+- [CSDN React Native知识库](http://lib.csdn.net/base/reactnative) 
+- [Use React Native Blog](http://www.reactnative.com/)
+- [Facebook Code Blog](https://code.facebook.com/)
+- [Qunar React Native](http://ued.qunar.com/qrn/) 去哪儿定制版 React Native，更快、更好、更统一。
+- [阮一峰老师的博客](http://www.ruanyifeng.com/blog/javascript/) 阮老师在JS的讲解上深入浅出，非常适合学习JS。
+
 ## 完整开源项目
 - [官方Demo App](https://github.com/facebook/react-native/tree/master/Examples)
 - [f8app ](https://github.com/fbsamples/f8app) Facebook官方开发的，强烈推荐 🔥🔥🔥🔥🔥
@@ -48,22 +64,6 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [TaskRabbit's Sample App](https://github.com/taskrabbit/ReactNativeSampleApp) Task Rabbit的Demo App
 - [PhotosReactNative](https://github.com/7kfpun/PhotosReactNative) 一个带图案锁屏的开源看图App
 - [movieapp](https://github.com/JuneDomingo/movieapp) 查看电影和电视节目的App 🔥🔥
-
-## 网址
-
-- [源代码](https://github.com/facebook/react-native)
-- [官方文档](https://facebook.github.io/react-native/docs/getting-started.html#content)
-- [React Native中文网](http://reactnative.cn/)
-- [StackOverFlow ReactNative相关问题](http://stackoverflow.com/questions/tagged/react-native)
-- [React-China社区](http://react-china.org/)
-- [Use React Native 资讯站](http://www.reactnative.com/)
-- [Programming React Native](http://www.programmingreactnative.com/) 一本入门教程的书 
-- [CSDN React Native知识库](http://lib.csdn.net/base/reactnative) 
-- [Use React Native Blog](http://www.reactnative.com/)
-- [Facebook Code Blog](https://code.facebook.com/)
-- [Qunar React Native](http://ued.qunar.com/qrn/) 去哪儿定制版 React Native，更快、更好、更统一。
-- [阮一峰老师的博客](http://www.ruanyifeng.com/blog/javascript/) 阮老师在JS的讲解上深入浅出，非常适合学习JS。
-
 
 ## Libraries
 

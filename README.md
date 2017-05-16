@@ -140,6 +140,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-loading-spinner-overlay](https://github.com/niftylettuce/react-native-loading-spinner-overlay) 加载中的提示spinner 🔥,支持iOS/Android
 - [react-native-color-picker](https://github.com/instea/react-native-color-picker) iOS/Android通用的颜色选择器
 - [react-native-pathjs-charts](https://github.com/capitalone/react-native-pathjs-charts) - 基于react-native-svg 和 paths-js写的iOS，Android通用的绘图库 🔥
+- [react-native-gl-model-view](https://github.com/rastapasta/react-native-gl-model-view) - 显示/动画 Wavefront，.OBJ等3D对象(iOS)
 
 ### 文本相关
 - [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的component 🔥

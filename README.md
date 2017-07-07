@@ -79,6 +79,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [React Native training](https://www.gitbook.com/book/unbug/react-native-training/details) Github Book，入门级资料 🔥🔥
 - [pepperoni-app-kit](https://github.com/futurice/pepperoni-app-kit) React Native App 开发的一组通用组件 🔥🔥🔥🔥
 - [haul](https://github.com/callstack-io/haul) 辅助开发React Native的命令行工具 🔥🔥🔥🔥
+- [react-native-rename](https://github.com/junedomingo/react-native-rename) 命令行重命名App名称
 
 
 

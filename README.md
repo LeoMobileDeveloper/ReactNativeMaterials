@@ -42,7 +42,8 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [Qunar React Native](http://ued.qunar.com/qrn/) 去哪儿定制版 React Native，更快、更好、更统一。
 - [阮一峰老师的博客](http://www.ruanyifeng.com/blog/javascript/) 阮老师在JS的讲解上深入浅出，非常适合学习JS。
 
-## 完整开源项目
+## 开源App
+
 - [官方Demo App](https://github.com/facebook/react-native/tree/master/Examples)
 - [f8app ](https://github.com/fbsamples/f8app) Facebook官方开发的，强烈推荐 🔥🔥🔥🔥🔥
 - [30-days-of-react-native](https://github.com/fangwei716/30-days-of-react-native) 写了30个小项目，来学习React Native，强烈推荐 🔥🔥🔥
@@ -65,6 +66,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [TaskRabbit's Sample App](https://github.com/taskrabbit/ReactNativeSampleApp) Task Rabbit的Demo App
 - [PhotosReactNative](https://github.com/7kfpun/PhotosReactNative) 一个带图案锁屏的开源看图App
 - [movieapp](https://github.com/JuneDomingo/movieapp) 查看电影和电视节目的App 🔥🔥
+- [what_the_thing](https://github.com/vigzmv/what_the_thing) 通过摄像头来学习“这是什么东西” 🔥🔥
 
 ## Libraries
 

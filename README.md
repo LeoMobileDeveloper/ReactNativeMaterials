@@ -67,6 +67,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [PhotosReactNative](https://github.com/7kfpun/PhotosReactNative) 一个带图案锁屏的开源看图App
 - [movieapp](https://github.com/JuneDomingo/movieapp) 查看电影和电视节目的App 🔥🔥
 - [what_the_thing](https://github.com/vigzmv/what_the_thing) 通过摄像头来学习“这是什么东西” 🔥🔥
+- [react-native-live-translator](https://github.com/agrcrobles/react-native-live-translator) AR应用，实时翻译摄像头中看到的信息
 
 ## Libraries
 

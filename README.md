@@ -238,14 +238,12 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 ## 英文资料
 
-### 宏观介绍
-
 - [React Native: Bringing modern web techniques to mobile](https://code.facebook.com/posts/1014532261909640/react-native-bringing-modern-web-techniques-to-mobile/) ⭐️⭐️
 - [React Native and WebRTC](https://webrtchacks.com/reacting-to-react-native-for-native-webrtc-apps-alexey-aylarov/) ⭐️
 - [Writing Android Components](https://medium.com/@sejoker/writing-android-component-for-react-native-e34802bf3377) ⭐️
 - [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html) ⭐️⭐️
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987) ⭐️
-
+- [Build a Weather app](https://cloneable.io/p/build-a-fucking-weather-app) 用RN创建一个天气应用教程 ⭐️⭐️⭐️
 ### JS相关
 
 - [es6features](https://github.com/lukehoban/es6features#readme) 详细介绍了ES6的新特性，RN是支持ES6的，强烈推荐 ⭐️⭐️⭐️

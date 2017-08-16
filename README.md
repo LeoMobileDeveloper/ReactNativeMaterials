@@ -150,7 +150,8 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-message-bar]((https://github.com/KBLNY/react-native-message-bar) 在屏幕底部/顶部展示通知
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) 高性能的图片组件
 - [react-native-search-box](https://github.com/crabstudio/react-native-search-box) 纯JS写的类似iOS SearchBar的组件
-- [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
+- [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) A splash screen for react-native, hide when application loaded ,it works on iOS and Android. 🔥🔥🔥🔥
+- [rn-placeholder](https://github.com/mfrachet/rn-placeholder) 🔥 空数据的站位符，很适合用来做列表站位
 
 ### 文本相关
 - [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的component 🔥

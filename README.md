@@ -91,6 +91,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 ### UI
 
 - [React-Native-Elements](https://github.com/react-native-community/React-Native-Elements) 一组开发RN的UI工具包（强烈推荐） 🔥🔥🔥🔥🔥
+- [react-native-calendars](https://github.com/wix/react-native-calendars) 🔥🔥🔥🔥 优秀的日历控件
 - [apsl-react-native-button](https://github.com/APSL/react-native-button)  定义了一个Button支持用Style来配置 🔥🔥
 - [react-native-action-button](https://github.com/APSL/react-native-button) 支持多种点击事件的Button控件 🔥🔥
 - [react-native-button](https://github.com/ide/react-native-button) 另一个Button组件 🔥🔥

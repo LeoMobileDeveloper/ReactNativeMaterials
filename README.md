@@ -156,6 +156,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [rn-placeholder](https://github.com/mfrachet/rn-placeholder) 🔥 空数据的站位符，很适合用来做列表站位
 
 ### 文本相关
+
 - [react-native-markdown](https://github.com/lwansbrough/react-native-markdown) 支持markdown的component 🔥
 
 
@@ -183,7 +184,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-touch-id](https://github.com/naoufal/react-native-touch-id) 调用TouchID认证 🔥
 - [react-native-fcm](https://github.com/evollu/react-native-fcm) - firebase cloud messaging 和 local notification 🔥🔥
 - [react-native-permissions](https://github.com/yonahforst/react-native-permissions) 统一管理安卓和iOS的权限🔥🔥
-
+- [react-native-geocoder]((https://github.com/devfd/react-native-geocoder) 地理编码处理 🔥🔥
 
 ### Web相关
 - [react-native-safari-view](https://github.com/naoufal/react-native-safari-view) 封装iOS中的 [Safari View Controller](https://developer.apple.com/videos/wwdc/2015/?id=504)  🔥

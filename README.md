@@ -154,6 +154,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-search-box](https://github.com/crabstudio/react-native-search-box) 纯JS写的类似iOS SearchBar的组件
 - [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) A splash screen for react-native, hide when application loaded ,it works on iOS and Android. 🔥🔥🔥🔥
 - [rn-placeholder](https://github.com/mfrachet/rn-placeholder) 🔥 空数据的站位符，很适合用来做列表站位
+- [react-native-paper](https://github.com/callstack/react-native-paper.git) Material design for React Native.
 
 ### 文本相关
 

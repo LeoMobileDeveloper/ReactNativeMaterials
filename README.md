@@ -153,7 +153,9 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-fast-image](https://github.com/DylanVann/react-native-fast-image) 高性能的图片组件
 - [react-native-search-box](https://github.com/crabstudio/react-native-search-box) 纯JS写的类似iOS SearchBar的组件
 - [react-native-splash-screen](https://github.com/crazycodeboy/react-native-splash-screen) A splash screen for react-native, hide when application loaded ,it works on iOS and Android. 🔥🔥🔥🔥
-- [rn-placeholder](https://github.com/mfrachet/rn-placeholder) 🔥 空数据的站位符，很适合用来做列表站位
+- [rn-placeholder](https://github.com/mfrachet/rn-placeholder) 🔥 空数据的站位符，很适合用来做列表占位符
++* [react-native-shimmer-placeholder ★115](https://github.com/tomzaku/react-native-shimmer-placeholder) 🔥具有shimmer的占位UI
+
 - [react-native-paper](https://github.com/callstack/react-native-paper.git) Material design for React Native.
 
 ### 文本相关

@@ -188,6 +188,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-fcm](https://github.com/evollu/react-native-fcm) - firebase cloud messaging 和 local notification 🔥🔥
 - [react-native-permissions](https://github.com/yonahforst/react-native-permissions) 统一管理安卓和iOS的权限🔥🔥
 - [react-native-geocoder]((https://github.com/devfd/react-native-geocoder) 地理编码处理 🔥🔥
+- [react-native-offline](https://github.com/rauliyohmc/react-native-offline) 🔥🔥🔥 处理网络离线/在线切换
 
 ### Web相关
 - [react-native-safari-view](https://github.com/naoufal/react-native-safari-view) 封装iOS中的 [Safari View Controller](https://developer.apple.com/videos/wwdc/2015/?id=504)  🔥

@@ -89,7 +89,6 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [native-starter-kit](https://github.com/start-react/native-starter-kit) React Native + NativeBase + React Navigation + Redux + CodePush (iOS & Android) 开发的App
 
 
-
 ### UI
 
 - [React-Native-Elements](https://github.com/react-native-community/React-Native-Elements) 一组开发RN的UI工具包（强烈推荐） 🔥🔥🔥🔥🔥
@@ -247,6 +246,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [FlexBox入门图解](http://blog.csdn.net/hello_hwc/article/details/51480458) ⭐️⭐️
 - [React Native开发之动画(Animations)](http://blog.csdn.net/hello_hwc/article/details/51775696)⭐️⭐️
 - [写给移动开发者的 React Native 指南](http://www.jianshu.com/p/b88944250b25) ⭐️⭐️⭐️
+- [在react-native中使用redux](https://www.jianshu.com/p/2c43860b0532) ⭐️⭐️⭐️
 
 ## 英文资料
 
@@ -256,6 +256,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html) ⭐️⭐️
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987) ⭐️
 - [Build a Weather app](https://cloneable.io/p/build-a-fucking-weather-app) 用RN创建一个天气应用教程 ⭐️⭐️⭐️
+
 ### JS相关
 
 - [es6features](https://github.com/lukehoban/es6features#readme) 详细介绍了ES6的新特性，RN是支持ES6的，强烈推荐 ⭐️⭐️⭐️

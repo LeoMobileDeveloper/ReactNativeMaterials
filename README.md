@@ -261,6 +261,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 
 - [es6features](https://github.com/lukehoban/es6features#readme) 详细介绍了ES6的新特性，RN是支持ES6的，强烈推荐 ⭐️⭐️⭐️
 - [React 入门实例教程](http://www.ruanyifeng.com/blog/2015/03/react.html) 阮一峰老师的React入门文章，强烈推荐 ⭐️⭐️⭐️
+- [React 技术栈系列教程](http://www.ruanyifeng.com/blog/2016/09/react-technology-stack.html)  ⭐️⭐️⭐️
 
 ### 技术细节
 

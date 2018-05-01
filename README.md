@@ -69,6 +69,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [what_the_thing](https://github.com/vigzmv/what_the_thing) 通过摄像头来学习“这是什么东西” 🔥🔥
 - [react-native-live-translator](https://github.com/agrcrobles/react-native-live-translator) AR应用，实时翻译摄像头中看到的信息
 - [虎扑社区](https://github.com/bluedaniel/Kakapo-native) 虎扑社区 🔥
+- [vecihi](https://github.com/yasintoy/vecihi) Build Your Own Photo Sharing App in 5 minutes
 
 ## Libraries
 

@@ -89,6 +89,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-rename](https://github.com/junedomingo/react-native-rename) 命令行重命名App名称
 - [native-starter-kit](https://github.com/start-react/native-starter-kit) React Native + NativeBase + React Navigation + Redux + CodePush (iOS & Android) 开发的App
 - [eact-native-i18n](https://github.com/AlexanderZaytsev/react-native-i18n) React Native + i18n.js
+- [sketch-to-react-native](https://github.com/nanohop/sketch-to-react-native) 把Sketch转换成React Native的Component
 
 ### UI
 

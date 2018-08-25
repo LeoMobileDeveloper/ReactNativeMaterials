@@ -104,6 +104,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-calendars](https://github.com/wix/react-native-calendars) 🔥🔥🔥🔥 优秀的日历控件
 - [react-native-gifted-chat](https://github.com/FaridSafi/react-native-gifted-chat) 聊天相关UI 🔥🔥🔥🔥🔥
 - [react-native-scrollable-tab-view](https://github.com/brentvatne/react-native-scrollable-tab-view) 可滚动的TabView 🔥🔥🔥🔥🔥
+- [lottie-react-native](https://github.com/jondot/awesome-react-native) 支持RN的lottie，用来直接播放AE输出的JSON动画
 - [apsl-react-native-button](https://github.com/APSL/react-native-button)  定义了一个Button支持用Style来配置 🔥🔥
 - [react-native-action-button](https://github.com/APSL/react-native-button) 支持多种点击事件的Button控件 🔥🔥
 - [react-native-button](https://github.com/ide/react-native-button) 另一个Button组件 🔥🔥

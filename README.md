@@ -269,6 +269,8 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [Android Performance](https://facebook.github.io/react-native/docs/android-ui-performance.html) ⭐️⭐️
 - [A Dynamic Crazy Native Mobile Future Powered by Javascript](https://medium.com/@clayallsopp/a-dynamic-crazy-native-mobile-future-powered-by-javascript-70f2d56b1987) ⭐️
 - [Build a Weather app](https://cloneable.io/p/build-a-fucking-weather-app) 用RN创建一个天气应用教程 ⭐️⭐️⭐️
+- [Better List Views in React Native](https://facebook.github.io/react-native/blog/2017/03/13/better-list-views.html) 性能更好的
+ListView
 
 ### JS相关
 

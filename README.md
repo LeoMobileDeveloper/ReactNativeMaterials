@@ -70,9 +70,9 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 - [react-native-live-translator](https://github.com/agrcrobles/react-native-live-translator) AR应用，实时翻译摄像头中看到的信息
 - [虎扑社区](https://github.com/bluedaniel/Kakapo-native) 虎扑社区 🔥
 - [vecihi](https://github.com/yasintoy/vecihi) Build Your Own Photo Sharing App in 5 minutes
+- [react-weather](https://github.com/stage88/react-weather) 基于React Native和Realm的天气应用
 
 ## Libraries
-
 
 ### 综合
 

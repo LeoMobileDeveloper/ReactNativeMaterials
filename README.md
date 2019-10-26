@@ -294,7 +294,8 @@ ListView
 
 ## 视频资料
 
-Tips:部分视频资料来自Youtubu，可以用[Lantern](https://github.com/getlantern/lantern)翻墙
+Tips:部分视频资料来自Youtube，可以用[Lantern](https://github.com/getlantern/lantern)翻墙
+- [React Conf 2018](https://www.youtube.com/playlist?list=PLPxbbTqCLbGE5AihOSExAa4wUM-P42EIJ)
 - [React Conf 2017](https://www.youtube.com/playlist?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0)
 - [React.js Conf 2016](https://facebook.github.io/react-native/docs/videos.html) ⭐️⭐️⭐️
 - React Conf 2015: [Introducing React Native](https://youtu.be/KVZ-P-ZI6W4) ⭐️⭐️⭐️

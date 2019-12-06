@@ -171,6 +171,7 @@ React Native优秀博客，以及优秀的Github库列表（很多英文资料�
 +* [react-native-shimmer-placeholder ★115](https://github.com/tomzaku/react-native-shimmer-placeholder) 🔥具有shimmer的占位UI
 
 - [react-native-paper](https://github.com/callstack/react-native-paper.git) Material design for React Native.
+- [authing-rn-sdk](https://github.com/Authing/authing-rn-sdk) 🔥🔥🔥🔥由 Authing 开发的，快速接入支付宝、微信等 APP 登录，以及免代码开发支持邮箱密码、用户名密码、手机验证码登录的 UI。
 
 ### 文本相关
 
